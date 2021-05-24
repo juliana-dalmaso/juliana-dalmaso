@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Ju Dalmaso!
 ![](https://github.com/juliana-dalmaso/juliana-dalmaso/blob/main/Website%20Launch%20Rocketship%20Facebook%20Cover%20Photo.png)
 
+:US:
 I am an automation engineer, working in the anti-fraud sector at Picpay.
 I recently received the opportunity to develop my mobile development skills with the ViC project and here you can follow part of this development!
 
