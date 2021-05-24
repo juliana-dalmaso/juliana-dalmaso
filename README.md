@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ju Dalmaso!
 ![](https://github.com/juliana-dalmaso/juliana-dalmaso/blob/main/Website%20Launch%20Rocketship%20Facebook%20Cover%20Photo.png)
 
-:us:
+🇺🇸
 
 I am an automation engineer, working in the anti-fraud sector at Picpay.
 I recently received the opportunity to develop my mobile development skills with the ViC project and here you can follow part of this development!
@@ -12,6 +12,7 @@ I recently received the opportunity to develop my mobile development skills with
 - ⚡ Fun fact: I have a blind dog that can predict the weather. ~~He's actually just a regular blind dog~~
 
 🇧🇷
+
 Eu sou engenheira de Controle e Automação e trabalho no setor de antifraude no Picpay.
 Recentemente recebi a oportunidade de aprimorar minhas habilidades em desenvolvimento mobile com o projeto *ViC* e aqui você pode acompanhar parte desse desenvolvimento!
 
